@@ -19,6 +19,8 @@ Android v/s iOS - nice to know things
 
 9. Android ecosystem is more fragmented due to multiple OEMs and multiple app stores. Android developer can gate-in apps faster (in-time). Apple iOS ecosystem is controlled and closely-knit and it takes longer to host an app online.  
 
+10. Android app developer uses Android Studio IDE, Java or Kotlin programming and third party app-builders are available. iOS developer uses XCode, Swift programming on Mac OS.  
+
 [Android or iOS - which developers earn more?](https://insights.dice.com/2020/02/06/android-vs-ios-earns-developers-more/)  
 
 [Some stats on OS market share](https://leftronic.com/android-vs-ios-market-share/)  
