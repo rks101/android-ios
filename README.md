@@ -1,11 +1,11 @@
 # Android v/s iOS Ecosystem
 Android v/s iOS - nice to know things  
 
-1. [Google Play Store](https://play.google.com/store/apps/) is one of several repositories for Android apps. [Apple App Store](https://www.apple.com/app-store/) is only repository for iOS apps.  
+1. [Google Play Store](https://play.google.com/store/apps/) is one of several repositories for Android apps. [Apple App Store](https://www.apple.com/app-store/) is the only repository for iOS apps.  
 
 2. Android based mobile devices (smartphone and tablets) are manufactured by several OEMs - Google, Samsung, OnePlus, Xiaomi (Redme, Mi, Poco), Oppo, Vivo, Motorola, Nokia, LG, Sony, Asus, Lenovo, Huawei, etc. Apple alone manufactures iOS based mobile devices (smartphone, iPad, iWatch).  
 
-3. Android Play Store has 2.8 million apps and Apple App Store has 1.8 million apps as of December 2020.  
+3. Android Play Store has 2.8 million apps and Apple App Store has 1.8 million apps as of December 2020. By June 2018, Android has 3.6 million active apps. Both Android and iOS were unveiled in 2007.  
 
 4. Android smartphone marketshare is staggering 84% while Apple has a 15 marketshare as per [IDC](https://www.idc.com/promo/smartphone-market-share/os) and [Gartner](https://www.gartner.com/en/newsroom/press-releases/2020-08-25-gartner-says-global-smartphone-sales-declined-20--in-) reports.  
 
@@ -19,7 +19,7 @@ Android v/s iOS - nice to know things
 
 9. Android ecosystem is more fragmented due to multiple OEMs and multiple app stores. Android developer can gate-in apps faster (in-time). Apple iOS ecosystem is controlled and closely-knit and it takes longer to host an app online.  
 
-10. Android app developer uses Android Studio IDE, Java or Kotlin programming and third party app-builders are available. iOS developer uses XCode, Swift programming on Mac OS.  
+10. Android app developer uses Android Studio IDE, Java or Kotlin programming and third party app-builders are available. iOS developer uses XCode, Swift programming on Mac OS. There are hybrid app development interfaces that write once and build apps for both Android and iOS.   
 
 [Android or iOS - which developers earn more?](https://insights.dice.com/2020/02/06/android-vs-ios-earns-developers-more/)  
 
