@@ -29,3 +29,7 @@ Android v/s iOS - nice to know things
 
 Q. When you should recycle or upgrade your phone?  
 A. As years roll on, there is no incentive for Andoid device makers to continue supporting updates. First, you should find out the latest OS released and the OS running on your phone/tablet. If you are running three or more major versions behind, it's time for upgrade. e.g. If latest android release is v11.0 and if your phone has v8.0 or earlier OS running, you should consider upgrade. Each major release comes with many security patches and improvements. Also, check if your phone is still receiving any software updates. If your phone has not received any update in the past 12 months, enquire if there will be any update and then you should consider upgrade.   
+
+A note on User Behaviour and Tracking  
+1. iOS has brought App Tracking and Transparency (ATT) controls in recent iOS releases aimed at notifying what information can be used to track user behaviour and usage by an app. Read [A Day in the Life of Your Data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf) While such ATT controls are missing for Android app interface, this may come to Android as well.  
+2. Location: There has been considerable changes in how location can be requested both by iOS and Android apps. e.g. Location in background is restricted, Location can be granted for the duration of app usage alone.   
