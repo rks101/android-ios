@@ -17,9 +17,11 @@ Android v/s iOS - nice to know things
 
 8. Android took Location permission seriously very late from Android 10 while Apple iOS was [restricting access to Location](https://support.apple.com/en-us/HT203033) while-in-use much earlier than Android.  
 
-9. Android ecosystem is more fragmented due to multiple OEMs and multiple app stores. Android developer can gate-in apps faster (in-time). Apple iOS ecosystem is controlled and closely-knit and it takes longer to host an app online.  
+9. Android ecosystem is more fragmented due to multiple OEMs and multiple app stores. Android developer can gate-in apps faster (in-time). Apple iOS ecosystem is controlled and closely-knit and it takes longer to host an app online.   
 
 10. Android app developer uses Android Studio IDE, Java or Kotlin programming and third party app-builders are available. iOS developer uses XCode, Swift programming on Mac OS. There are hybrid app development interfaces that write once and build apps for both Android and iOS.   
+
+11. Apple has a better iOS [distribution and upgrade model](https://blog.f-secure.com/another-reason-99-percent-of-mobile-malware-targets-androids/) compared to fragmented Android, where OEMs do not have incentives to upgrade with no central mandate.   
 
 [Android or iOS - which developers earn more?](https://insights.dice.com/2020/02/06/android-vs-ios-earns-developers-more/)  
 
