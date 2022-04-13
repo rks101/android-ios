@@ -35,3 +35,9 @@ A. As years roll on, there is no incentive for Andoid device makers to continue 
 A note on User Behaviour and Tracking  
 1. iOS has brought App Tracking and Transparency (ATT) controls in recent iOS releases aimed at notifying what information can be used to track user behaviour and usage by an app. Read [A Day in the Life of Your Data](https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf) While such ATT controls are missing for Android app interface, this may come to Android as well.  
 2. Location: There has been considerable changes in how location can be requested both by iOS and Android apps. e.g. Location in background is restricted, Location can be granted for the duration of app usage alone.   
+3. No Tracking and Ad Revenue: For any enterprise, if majority of revenue comes from a stream say Revenue by Personal Advertising, it is likely not to restrict that stream for privacy.   
+
+
+**Pointers**
+[How can you use Android and still not be tracked](https://www.androidauthority.com/how-can-you-use-android-but-not-be-tracked-by-google-827287/)   
+[Should Android implement Apple like ATT](Should Android implement an Apple-like App Tracking Transparency feature?)   
