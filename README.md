@@ -38,6 +38,7 @@ A note on User Behaviour and Tracking
 3. No Tracking and Ad Revenue: For any enterprise, if majority of revenue comes from a stream say Revenue by Personal Advertising, it is likely not to restrict that stream for privacy.   
 
 
-**Pointers**
+**Pointers**   
 [How can you use Android and still not be tracked](https://www.androidauthority.com/how-can-you-use-android-but-not-be-tracked-by-google-827287/)   
-[Should Android implement Apple like ATT](Should Android implement an Apple-like App Tracking Transparency feature?)   
+[Should Android implement Apple like ATT](https://www.androidauthority.com/android-app-tracking-transparency-poll-1221296/)   
+[To enhance privacy on Android](https://www.androidpolice.com/enhance-privacy-on-android/)   
