@@ -42,3 +42,4 @@ A note on User Behaviour and Tracking
 [How can you use Android and still not be tracked](https://www.androidauthority.com/how-can-you-use-android-but-not-be-tracked-by-google-827287/)   
 [Should Android implement Apple like ATT](https://www.androidauthority.com/android-app-tracking-transparency-poll-1221296/)   
 [To enhance privacy on Android](https://www.androidpolice.com/enhance-privacy-on-android/)   
+While ads generate so much revenue, so [will Android or Google stop you tracking?](https://www.techradar.com/news/android-will-no-longer-make-a-mockery-of-user-privacy)   
